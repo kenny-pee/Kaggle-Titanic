@@ -19,7 +19,17 @@ Accuracy on test set: 0.76794
 
 2) Attempt 1.2 on 5th October 2020:
 Columns used: Sex, Age,	SibSp, Fare, EmbarkedS, Pclass_Middle, Pclass_Lower
-Accuracy on test set:
+Accuracy on test set: 0.76794
+
+3) Attempt 2.1 on 5th October 2020:
+Model: Decision Trees, 'Gini' Criterion
+Columns used: Sex, Age,	SibSp, Fare, EmbarkedS, Pclass_Middle, Pclass_Lower
+Accuracy on test set: 0.70813 
+
+3) Attempt 2.2 on 5th October 2020:
+Model: Decision Trees, 'Entropy' Criterion
+Columns used: Sex, Age,	SibSp, Fare, EmbarkedS, Pclass_Middle, Pclass_Lower
+Accuracy on test set: 0.77511 
 
 
 Overall reflections and evaluations:
